@@ -14,5 +14,6 @@
   | Repo      | Description | Stack     |
 | :---        |    :----:   |          ---: |
 | [Hello World](https://github.com/ahzsec/random-vyper-code/tree/main/HelloWorld) | A simple Hello World app | <img src="preview/vyper.png" alt="Vyper badge" width="60"> |
+| [Primitive Data Types](https://github.com/ahzsec/random-vyper-code/tree/main/PrimitiveDataTypes) | A simple Primitive Data Types examples | <img src="preview/vyper.png" alt="Vyper badge" width="60"> |
 
 </div>
